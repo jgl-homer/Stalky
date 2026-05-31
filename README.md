@@ -1,8 +1,7 @@
 <!-- CABECERA -->
 <div align="center">
 
-<!-- Reemplaza esto con tu logo: ![Stalky](assets/logo/stalky_banner.png) -->
-# 🔔 Stalky
+![Stalky](assets/icon.png)
 
 [![Descargar](https://img.shields.io/badge/Descargar-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/TU_USUARIO/stalky/releases/latest)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter)](https://flutter.dev)
