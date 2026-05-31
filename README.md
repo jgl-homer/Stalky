@@ -11,6 +11,12 @@
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)](LICENSE)
 [![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow?style=for-the-badge)]()
 
+<p align="center">
+  <img src="assets/image1.jpeg" width="30%"/>
+  <img src="assets/image2.jpeg" width="30%"/>
+  <img src="assets/image3.jpeg" width="30%"/>
+</p>
+
 </div>
 
 ---
