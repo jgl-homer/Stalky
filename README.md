@@ -3,7 +3,7 @@
 
 ![Stalky](assets/icon.png)
 
-[![Descargar](https://img.shields.io/badge/Descargar-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/TU_USUARIO/stalky/releases/latest)
+[![Descargar](https://img.shields.io/badge/Descargar-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/jgl-homer/stalky/releases/latest)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-activo-orange?style=for-the-badge&logo=firebase)](https://firebase.google.com)
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-purple?style=for-the-badge&logo=google)](https://ai.google.dev)
